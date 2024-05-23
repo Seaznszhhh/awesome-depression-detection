@@ -16,12 +16,12 @@ Keeping Users Engaged During Repeated Administration of the Same Questionnaire: 
 [https://arxiv.org/pdf/2311.12707](https://arxiv.org/pdf/2311.12707)
 
 ## work
-基于多模态融合的抑郁症检测系统 
+基于多模态融合的抑郁症检测系统  
 [https://mp.weixin.qq.com/s/i0luiqcSaXSGN9Y3FImWZA](https://mp.weixin.qq.com/s/i0luiqcSaXSGN9Y3FImWZA)
 [https://huggingface.co/spaces/Liusuthu/Portable-Depression-Detecting-System/tree/main](https://huggingface.co/spaces/Liusuthu/Portable-Depression-Detecting-System/tree/main)
 
 EmoLLM-心理健康大模型  
 [https://github.com/SmartFlowAI/EmoLLM?tab=readme-ov-file](https://github.com/SmartFlowAI/EmoLLM?tab=readme-ov-file)
 
-清华ispaceAI心理咨询智能系统服务
+清华ispaceAI心理咨询智能系统服务  
 [https://mp.weixin.qq.com/s/_EqkzrnmrXemH_Jz9DjVXg](https://mp.weixin.qq.com/s/_EqkzrnmrXemH_Jz9DjVXg)
