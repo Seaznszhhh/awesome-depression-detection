@@ -1,9 +1,10 @@
 # awesome-depression-detection
 ## paper
--Enhancing Depression-Diagnosis-Oriented Chat with Psychological State Tracking
+-Enhancing Depression-Diagnosis-Oriented Chat with Psychological State Tracking  
+
 [https://arxiv.org/pdf/2403.09717v1](https://arxiv.org/pdf/2403.09717v1)
 
--Towards Reliable and Empathetic Depression-Diagnosis-Oriented Chats
+-Towards Reliable and Empathetic Depression-Diagnosis-Oriented Chats  
 [https://arxiv.org/pdf/2404.05012v1](https://arxiv.org/pdf/2404.05012v1)
 
 -Explainable Depression Detection Using Large Language Models on Social Media Data
