@@ -18,6 +18,21 @@ Keeping Users Engaged During Repeated Administration of the Same Questionnaire: 
 Improving the Generalizability of Depression Detection by Leveraging Clinical Questionnaires  
 [https://arxiv.org/abs/2204.10432](https://arxiv.org/abs/2204.10432)
 
+Large Language Models in Mental Health Care: a Scoping Review  
+[https://arxiv.org/abs/2401.02984](https://arxiv.org/abs/2401.02984)
+
+MentaLLaMA: Interpretable Mental Health Analysis on Social Media with Large Language Models  
+[https://arxiv.org/pdf/2309.13567v3](https://arxiv.org/pdf/2309.13567v3)
+
+Towards Interpretable Mental Health Analysis with Large Language  
+[https://arxiv.org/pdf/2304.03347v4](https://arxiv.org/pdf/2304.03347v4)
+
+Mental-LLM: Leveraging Large Language Models for Mental Health Prediction via Online Text Data  
+[https://arxiv.org/pdf/2307.14385v4](https://arxiv.org/pdf/2307.14385v4)
+
+Dreaddit: A Reddit Dataset for Stress Analysis in Social Media  
+[https://arxiv.org/pdf/1911.00133v1](https://arxiv.org/pdf/1911.00133v1)
+---
 ## work
 基于多模态融合的抑郁症检测系统  
 [https://mp.weixin.qq.com/s/i0luiqcSaXSGN9Y3FImWZA](https://mp.weixin.qq.com/s/i0luiqcSaXSGN9Y3FImWZA)
