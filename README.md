@@ -15,6 +15,9 @@ Explainable Depression Detection Using Large Language Models on Social Media Dat
 Keeping Users Engaged During Repeated Administration of the Same Questionnaire: Using Large Language Models to Reliably Diversify Questions  
 [https://arxiv.org/pdf/2311.12707](https://arxiv.org/pdf/2311.12707)
 
+Improving the Generalizability of Depression Detection by Leveraging Clinical Questionnaires  
+[https://arxiv.org/abs/2204.10432](https://arxiv.org/abs/2204.10432)
+
 ## work
 基于多模态融合的抑郁症检测系统  
 [https://mp.weixin.qq.com/s/i0luiqcSaXSGN9Y3FImWZA](https://mp.weixin.qq.com/s/i0luiqcSaXSGN9Y3FImWZA)
