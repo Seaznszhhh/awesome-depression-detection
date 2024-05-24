@@ -36,6 +36,9 @@ Dreaddit: A Reddit Dataset for Stress Analysis in Social Media
 ※※※DepreSym: A Depression Symptom Annotated Corpus and the Role of LLMs as Assessors of Psychological Markers  
 [https://arxiv.org/pdf/2308.10758](https://arxiv.org/pdf/2308.10758)
 
+Depression Detection on Social Media with Large Language Models
+[https://arxiv.org/abs/2403.10750](https://arxiv.org/abs/2403.10750)
+
 ## work
 基于多模态融合的抑郁症检测系统  
 [https://mp.weixin.qq.com/s/i0luiqcSaXSGN9Y3FImWZA](https://mp.weixin.qq.com/s/i0luiqcSaXSGN9Y3FImWZA)
