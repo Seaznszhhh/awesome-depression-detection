@@ -33,6 +33,8 @@ Mental-LLM: Leveraging Large Language Models for Mental Health Prediction via On
 Dreaddit: A Reddit Dataset for Stress Analysis in Social Media  
 [https://arxiv.org/pdf/1911.00133v1](https://arxiv.org/pdf/1911.00133v1)
 
+※※※DepreSym: A Depression Symptom Annotated Corpus and the Role of LLMs as Assessors of Psychological Markers  
+[https://arxiv.org/pdf/2308.10758](https://arxiv.org/pdf/2308.10758)
 
 ## work
 基于多模态融合的抑郁症检测系统  
