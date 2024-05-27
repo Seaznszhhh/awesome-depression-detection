@@ -39,6 +39,9 @@ Dreaddit: A Reddit Dataset for Stress Analysis in Social Media
 Depression Detection on Social Media with Large Language Models  
 [https://arxiv.org/abs/2403.10750](https://arxiv.org/abs/2403.10750)
 
+GAME: Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders  
+[https://arxiv.org/abs/2309.10077](https://arxiv.org/abs/2309.10077)
+
 ## work
 基于多模态融合的抑郁症检测系统  
 [https://mp.weixin.qq.com/s/i0luiqcSaXSGN9Y3FImWZA](https://mp.weixin.qq.com/s/i0luiqcSaXSGN9Y3FImWZA)
